@@ -24,7 +24,7 @@ copyright:              (c) 2017-2022 John Ky
                         (c) 2006 Ross Paterson, Ralf Hinze,
 license:                BSD-3-Clause
 license-file:           LICENSE
-tested-with:            GHC == 9.2.2, GHC == 9.0.2, GHC == 8.10.7, GHC == 8.8.4, GHC == 8.6.5
+tested-with:            GHC == 9.6.1, GHC == 9.4.4, GHC == 9.2.7, GHC == 9.0.2, GHC == 8.10.7, GHC == 8.8.4, GHC == 8.6.5
 build-type:             Simple
 
 source-repository head
